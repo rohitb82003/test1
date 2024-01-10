@@ -1,0 +1,96 @@
+CPRO-1011A (Pamela Neumann)
+Title:   A Comprehensive Comparison of Google Chrome and Microsoft Edge
+Summary:
+This report provides a comprehensive analysis that evaluates the performance, functionality, and user experience of Google Chrome and Microsoft Edge.
+The purpose is to provide recommendations to users who are looking for the best solution for surfing the Internet.
+Introduction (Context):
+This report seeks to provide a complete comparison of two prominent web browsers, Google Chrome and Microsoft Edge. We may learn about their strengths and limitations by studying their features, performance, and user experience. This comparison is useful for those who wish to make an informed choice on which browser to use for their online activity.
+Details (Comparisons):
+Section 1:Performance and Speed Metrics:
+This section goes into the performance metrics of both browsers, such as speed, usability, and compatibility. When it comes to performance and quickness, both Google Chrome and Microsoft Edge offer advantages and disadvantages. Let's compare the two browsers in terms of page load speeds, resource utilization, and responsiveness.
+Page Load Times:
+Google Chrome is well-known for its lightning-fast website load times. It provides a smooth surfing experience by utilizing clever caching techniques and improved rendering engines. Microsoft Edge, on the other hand, has made tremendous gains in this area and is currently equivalent to Chrome in terms of page load times.
+Resource Usage:
+Google Chrome has been criticized for consuming excessive resources, particularly when numerous tabs are open. It does, however, provide a wide selection of extensions and features that improve the browsing experience. Microsoft Edge, on the other hand, is meant to be more resource-efficient, resulting in lower memory and CPU utilization. As a result, it is an excellent solution for those with minimal system resources.
+Responsiveness:
+Google Chrome and Microsoft Edge both provide responsive web surfing experiences. To reduce latency and improve responsiveness, they have used techniques such as pre-rendering and predictive browsing. Chrome's huge ecosystem of extensions and plugins, on the other hand, may hinder its responsiveness in some instances.
+
+Benchmark Results:
+ 
+Benchmark tests give unbiased evaluations of browser performance. Here are some comparison results between Google Chrome and Microsoft Edge:
+Google Chrome - 100ms, Microsoft Edge - 110ms Sun Spider JavaScript Benchmark
+Google Chrome - 20,000, Microsoft Edge - 18,000 Octane 2.0 Benchmark
+Google Chrome - 200, Microsoft Edge - 180 WebXPRT 3 Benchmark
+Section 2- User Interface:
+Google Chrome:
+Google Chrome's user interface is simple and straightforward. It has a straightforward design with tabs, an address bar, and a toolbar. The design is simple and straightforward, making it simple for users to explore and access their favorite websites and features.
+Microsoft Edge:
+The user interface of Microsoft Edge, often known as Microsoft UI or Fluent Design, is distinguished by its modern and clean appearance. The design is a big change from prior web browsers' typical user interfaces.
+Address Bar: The address bar is the key component of the browser interface, allowing users to write or paste a URL, select from browsing history, and begin web searches.
+Tabs and Favorites: These choices, located in the top-left corner of the browser window, allow users to view and manage their favorite websites and open tabs.
+Compatibility with Web Standards
+
+Google Chrome: Excellent HTML5, CSS3, and JavaScript support.
+Microsoft Edge: HTML5, CSS3, and JavaScript are well supported.
+Availability of Extensions and Add-ons:
+Google Chrome: A large library of extensions is accessible via the Chrome Web Store.
+Microsoft Edge: An ever-expanding selection of extensions available via the Microsoft Store.
+Section 3: 
+Market share:
+Google Chrome
+According to companiesmarketcap.com, the company that owns Google, Alphabet, registered earnings in 2022 of $88.73 billion as of June 2022. Compared to 2021 earnings, when the sum was equal to more than $91 billion, it is estimated that Google will earn two times more in 2022. In a quick overview of the past 20 years, Google passed the $1 billion earnings per year for the first time in 2004. At the same time, between 2020 and 2022, Google will have doubled its earnings, according to its year-by-year reports.
+Microsoft Edge
+According to the report, Google Chrome covers the largest desktop market share all over the world. Google Chrome covers 68.5 percent of the market, followed by Microsoft Edge at 7.59 percent, Firefox has slipped to rank 3 with 7.19 percent of the market, and surprisingly, Internet Explorer is in fourth with a 5.87 percent market share.
+ 
+Popularity:
+Chrome is widespread throughout the world, although it is most prevalent in North America and Europe. It's also prevalent in fields like technology, banking, and education. Edge, on the other hand, is mainly popular in North America and is gaining traction in sectors such as healthcare and government.
+Next Step (Conclusion)
+After a comprehensive comparison, it becomes evident that the choice between Google Chrome and Microsoft Edge is nuanced and contingent on individual needs and preferences.
+For Google Chrome:
+Preference: If you rely significantly on Google services and value a wide range of customisation choices
+Strengths: Google Chrome excels in integrating seamlessly with the Google ecosystem, offering a large library of extensions and a highly customizable UI.
+For Microsoft Edge:
+Preference: If you value privacy, seamless interaction with Microsoft applications, and a simple user experience.
+Strengths: Microsoft Edge distinguishes itself with strong privacy measures, interaction with Windows services, and a clean, modern UI.
+Recommendation:
+It is critical to remember that the ultimate selection must be closely aligned with individual interests and needs. Users that are strongly engaged in the Google ecosystem may choose Google Chrome due to its seamless integration and customization choices. Those that value privacy and integration with Microsoft services, on the other hand, may find Microsoft Edge to be a tempting alternative. To summarize, the decision between Google Chrome and Microsoft Edge is subjective and should represent the user's personal preferences for the best surfing experience.
+Reference List: 
+https://www.profolus.com/topics/microsoft-edge-advantages-and-disadvantages/
+https://techbehemoths.com/blog/how-google-makes-money-business-analysis
+https://www.cloudwards.net/fastest-browser/
+https://www.androidauthority.com/chrome-vs-edge-3298624/
+https://www.pcworld.com/article/395021/5-microsoft-edge-and-chrome-extensions-everyone-should-use.html
+https://nerdschalk.com/microsoft-edge-vs-chrome-privacy/
+https://www.techradar.com/pro/edge-vs-chrome-in-2023-heres-why-theres-only-one-winner-for-productivity-fans
+https://www.browserstack.com/guide/edge-vs-chrome
+
+
+
+
+Components:
+Definition: The visual components and interactions within a software application that allow users to engage with and navigate through the application are referred to as the user interface (UI).
+Description: Rendering Engine is the core software component responsible for processing and displaying content on web pages.
+Technical Graphic: Include a visual representation, such as a comparison chart, graph, or diagram, illustrating key performance metrics or features of Google Chrome and Microsoft Edge.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
